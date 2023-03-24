@@ -6,6 +6,10 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode",
+    "surname":  {
+      "id": 1,
+      "title": "hello"
+    }
   }
 }
