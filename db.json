@@ -7,11 +7,10 @@
   ],
   "profile": {
     "name": "My_name"
+    "image": {
+    "id": 1
+    "image_url": "url"
   },
-  "img": [
-    {
-      "id": 1,
-      "title": "My image"
-    }
-  ],
+  },
+ 
 }
